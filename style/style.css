@@ -26,14 +26,14 @@ main{
 }
 
 .title{
-    font-size: 17px;
+    font-size: 18px;
     text-align: center;
     color: hsl(218, 44%, 22%);
     font-weight: 800;
 }
 
 .paragraph{
-    font-size: 15px;
+    font-size: 14px;
     text-align: center;
     color: hsl(220, 15%, 55%);
     margin-bottom: 1.5rem;
